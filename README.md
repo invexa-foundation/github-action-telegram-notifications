@@ -1,5 +1,15 @@
 # Telegram Notifications GH Action
 
+> [!WARNING]
+>
+> **DEPRECATION NOTICE**
+>
+> This action has moved to **[technance-foundation/github-actions](https://github.com/technance-foundation/github-actions)**:
+>
+> -   Telegram Notifications: `technance-foundation/github-actions/.github/actions/telegram-notifications@main`
+>
+> The current repo will no longer receive updates.
+
 ## Overview
 
 This GitHub action can be used in any repository to send notifications to a Telegram chat. The following pull request events will trigger a notification:
